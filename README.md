@@ -5,3 +5,6 @@ Security:
 
 Ruby Style Guide:
 - [Ruby Style Guide](https://ruby-style-guide.shopify.dev/)
+
+Ruby methods:
+- [Splat Operator](https://thoughtbot.com/blog/ruby-splat-operator)
