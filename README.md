@@ -8,6 +8,7 @@ Ruby Style Guide:
 
 Ruby methods:
 - [Splat Operator](https://thoughtbot.com/blog/ruby-splat-operator)
+- [Lambdas](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
 
 Rspec guides:
 - [Visualize Rspec Let](https://thoughtbot.com/blog/using-a-dependency-graph-to-visualize-rspec-let)
