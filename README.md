@@ -12,3 +12,6 @@ Ruby methods:
 
 Rspec guides:
 - [Visualize Rspec Let](https://thoughtbot.com/blog/using-a-dependency-graph-to-visualize-rspec-let)
+
+Migration Guide:
+- [Migration Tips](https://www.oracle.com/technical-resources/articles/kern-rails-migrations.html)
