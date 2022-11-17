@@ -13,5 +13,8 @@ Ruby methods:
 Rspec guides:
 - [Visualize Rspec Let](https://thoughtbot.com/blog/using-a-dependency-graph-to-visualize-rspec-let)
 
-Migration Guide:
+Migration Guides:
 - [Migration Tips](https://www.oracle.com/technical-resources/articles/kern-rails-migrations.html)
+
+Oracle guides:
+- [Basic database commands](https://blogs.oracle.com/sql/post/how-to-use-create-table-alter-table-and-drop-table-in-oracle-database)
