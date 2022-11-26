@@ -22,4 +22,4 @@ Oracle guides:
 Update Rails and Ruby Guide:
 - [Rails 5.2.3 to Rails 6](https://fullstackheroes.com/tutorials/rails/upgrade-to-rails-6/)
 - [Rails 6.1 to Rails 7](https://www.fastruby.io/blog/rails/upgrades/upgrade-rails-6-1-to-7-0.html)
-- [Ruby Compatibility[(https://www.fastruby.io/blog/ruby/rails/versions/compatibility-table.html)
+- [Ruby Compatibility](https://www.fastruby.io/blog/ruby/rails/versions/compatibility-table.html)
