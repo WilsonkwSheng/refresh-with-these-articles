@@ -10,6 +10,9 @@ Ruby methods:
 - [Splat Operator](https://thoughtbot.com/blog/ruby-splat-operator)
 - [Lambdas](https://scoutapm.com/blog/how-to-use-lambdas-in-ruby)
 
+Regex guides:
+- [gsub tips](https://www.rubyguides.com/2019/07/ruby-gsub-method/)
+
 Rspec guides:
 - [Visualize Rspec Let](https://thoughtbot.com/blog/using-a-dependency-graph-to-visualize-rspec-let)
 
